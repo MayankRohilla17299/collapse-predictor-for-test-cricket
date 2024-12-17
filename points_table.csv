@@ -1,0 +1,10 @@
+Ranking,Team,Matches,Won,Lost,Tie,Draw,No Results,Points,Points Percentage,Form,Next Match
+1,India,13,8,4,0,1,0,98,62.82,WWWLL,"vs AUS, AUS, AUS"
+2,Australia,12,8,3,0,1,0,90,62.50,WWLWW,"vs IND, IND, IND"
+3,Sri Lanka,9,5,4,0,0,0,60,55.56,LLWWW,"vs SA, SA"
+4,South Africa,8,4,3,0,1,0,52,54.17,LDWWW,"vs SL, SL, PAK"
+5,New Zealand,10,5,5,0,0,0,60,50.00,LLLWW,"vs ENG, ENG, ENG"
+6,England,19,9,9,0,1,0,93,40.79,WLWLL,"vs NZ, NZ, NZ"
+7,Pakistan,10,4,6,0,0,0,40,33.33,LLLWW,"vs SA, SA, WI"
+8,Bangladesh,10,3,7,0,0,0,33,27.50,WLLLL,"vs WI, WI"
+9,West Indies,9,1,6,0,2,0,20,18.52,LLLDL,"vs BAN, BAN, PAK"
